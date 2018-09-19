@@ -1,0 +1,40 @@
+h1 {
+    font-family: 'Monoton', cursive;
+    font-size: 70px;
+    color: yellow;
+}
+
+label {
+    font-family: 'Alfa Slab One', cursive;;
+    color: yellow;
+    font-size: 40px;
+}
+
+.gifs {
+    display: inline-block;
+}
+
+#gifsView {
+    display: inline-block;
+    margin-bottom: 40px;
+    margin-left: 80px;
+}
+
+.gif {
+	cursor: pointer;
+}
+
+button {
+	background: #fff;
+	margin: 5px;
+	font-family: 'Ubuntu Mono', monospace;
+    color: black;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+input {
+    cursor: pointer;
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 30px;
+}
